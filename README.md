@@ -2,12 +2,12 @@
 
 Full Stack Architect & Engineering Leader
 
-🔭 I’m currently working primarily with web and mobile apps.
-🚀 Check out my portfolio at [sheikhmsharjeel.com](https://www.sheikhmsharjeel.com/)
-🤝 I'm an Open Source Enthusiast
-📫 How to reach me:
-- Email: sheikhmsharjeel@gmail.com
-- LinkedIn: linkedin.com/in/SMsharjeel
+- 🔭 I’m currently working primarily with web and mobile apps.
+- 🚀 Check out my portfolio at [sheikhmsharjeel.com](https://www.sheikhmsharjeel.com/)
+- 🤝 I'm an Open Source Enthusiast
+- 📫 How to reach me:
+	- Email: sheikhmsharjeel@gmail.com
+	- LinkedIn: linkedin.com/in/SMsharjeel
 
 
 ### Languages & Frameworks
