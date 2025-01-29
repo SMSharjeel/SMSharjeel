@@ -2,10 +2,13 @@
 
 Full Stack Architect & Engineering Leader
 
-- 🔭 I’m currently working primarily with web and mobile apps.
-- 🚀 Check out my portfolio at [sheikhmsharjeel.com](https://www.sheikhmsharjeel.com/)
-- 🤝 I'm an Open Source Enthusiast
-- 📫 How to reach me:
+I am a passionate Full Stack Engineer with over 10 years of experience designing and developing complex web systems and amazing mobile applications. I have a proven track record of building applications from the ground up, deploying them seamlessly, and publishing them to app stores. My expertise spans creating management systems, admin portals, NFT platforms, and enterprise level solutions.
+
+In addition to hands-on development, I have excelled in leadership roles, including serving as Team Lead, Tech Lead, and Head of Product Development for a Web3 platform. In these roles, I have actively guided and managed teams through code reviews, strategic planning, and ensuring the delivery of high quality, scalable solutions. Currently, as the VP of Engineering, I oversee end-to-end product development while fostering innovation and collaboration within my team.
+
+With a strong blend of technical expertise and leadership acumen, I thrive on solving complex challenges and delivering impactful, scalable solutions. My passion lies in transforming intricate problems into elegant, efficient, and high-performing systems that drive success.
+
+Reach me at:
 	- Email: sheikhmsharjeel@gmail.com
 	- LinkedIn: linkedin.com/in/SMsharjeel
 
