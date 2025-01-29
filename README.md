@@ -8,7 +8,7 @@ With a strong blend of technical expertise and leadership acumen, I thrive on so
 
 Reach me at:
 	- Email: sheikhmsharjeel@gmail.com
-	- LinkedIn: linkedin.com/in/SMsharjeel
+	- LinkedIn: https://www.linkedin.com/in/SMsharjeel
 
 
 ### Languages & Frameworks
