@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Full Stack Architect & Engineering Leader
+## Full Stack Architect & Engineering Leader 👋
 
 I am a passionate Full Stack Engineer with over 10 years of experience designing and developing complex web systems and amazing mobile applications. I have a proven track record of building applications from the ground up, deploying them seamlessly, and publishing them to app stores. My expertise spans creating management systems, admin portals, NFT platforms, and enterprise level solutions.
 
