@@ -6,9 +6,9 @@ In addition to hands-on development, I have excelled in leadership roles, includ
 
 With a strong blend of technical expertise and leadership acumen, I thrive on solving complex challenges and delivering impactful, scalable solutions. My passion lies in transforming intricate problems into elegant, efficient, and high-performing systems that drive success.
 
-Reach me at:
-	○ Email: sheikhmsharjeel@gmail.com 
-        ○ LinkedIn: https://www.linkedin.com/in/sheikh-muhammad-sharjeel/
+Reach out to me at:
+	Email: sheikhmsharjeel@gmail.com 
+        LinkedIn: https://www.linkedin.com/in/sheikh-muhammad-sharjeel/
 
 ### Languages & Frameworks
 <div align="center">
